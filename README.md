@@ -1,8 +1,8 @@
 # Starter Web Project
 
 
-This repository is for showing how Git and GitHub work
-This is git project
+ 
+This is git project which we are using as Sample Project
 
 ## Introduction
 A lot of lectures are already submitted 
