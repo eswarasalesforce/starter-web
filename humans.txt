@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 Hi going to insert conflicts in my feature branch.
+Hi Doing changes in local
 
 # TEAM
 
