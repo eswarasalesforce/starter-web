@@ -5,8 +5,7 @@
 
      Eswara Kakkera  
 	 ekakkera@gmail.com
-	 Manager
-
+	 devops
 # THANKS
 
     <name>
@@ -15,3 +14,5 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Ajax
+	docker,java programming
+	
