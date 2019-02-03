@@ -1,14 +1,12 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-hi i am modifying the file before rebase
+Hi going to insert conflicts in my feature branch.
 
 # TEAM
 
      Eswara Kakkera  
 	 ekakkera@gmail.com
-	 devops level 3
-IT Org
-		
+	 devops
 # THANKS
 
    Thanks to all my students
