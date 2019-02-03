@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 
 ## Git and GitHub Training
 This  is the famous and one of the best training course of devops
+adding git rebase lectures and git advanced part.
 ##Contributions
 For the repo and raise pull request
 
