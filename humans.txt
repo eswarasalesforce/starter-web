@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Eswara Kakkera <twitter>
+     Eswara Kakkera  
+	 ekakkera@gmail.com
+	 Manager
 
 # THANKS
 
