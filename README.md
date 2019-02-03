@@ -10,6 +10,8 @@ Sample website with plenty of files for demos
 
 ## Git and GitHub Training
 This  is the famous and one of the best training course of devops
+##Contributions
+For the repo and raise pull request
 
 ## GIT Comparisions
 Adding GIT Comparisions Lectures 
