@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> Eswara <twitter>
+    <name> Eswara Kakkera <twitter>
 
 # THANKS
 
