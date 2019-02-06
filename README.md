@@ -37,3 +37,4 @@ Hima is making changes
 ## GIT training rebase
 git rebase training
 we have doen so much work toegether
+Adding new lectures
