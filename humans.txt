@@ -10,14 +10,15 @@ Hi Doing changes in local
 
      Hima Bindu Nadendla ,FreddieMac
 	 himanadendla@gmail.com
-	 dev mgr
+	 
 # THANKS
 
    Thanks to all my students
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Angular, Salesforce, AWS
+    HTML5, CSS3, Angular, Salesforce, AWS, Dev ops, docker
+	Integration,
  
     jQuery, Modernizr, machine learning
 	aws,google cloud
