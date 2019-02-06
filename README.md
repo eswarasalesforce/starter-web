@@ -20,3 +20,10 @@ Adding GIT Comparisions Lectures
 
 ##GitHub Content 
 Comparisions with repo
+## GITcomp
+Adding git comp lectures 
+
+## GIT Comparision
+Adding GIT comparision speech
+## GITHUB Contents
+comparisions with git repository

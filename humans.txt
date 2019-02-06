@@ -17,7 +17,7 @@ Hi Doing changes in local
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Angular
+    HTML5, CSS3, Angular, Salesforce, AWS
  
     jQuery, Modernizr, machine learning
 	aws,google cloud
