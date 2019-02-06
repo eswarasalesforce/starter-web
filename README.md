@@ -32,3 +32,6 @@ For the repoo changes
 
 ## GIT test
 Hima is making changes
+
+## GIT training rebase
+git rebase training
