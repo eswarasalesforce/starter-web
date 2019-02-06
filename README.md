@@ -27,3 +27,5 @@ Adding git comp lectures
 Adding GIT comparision speech
 ## GITHUB Contents
 comparisions with git repository
+## GIT Contributions
+For the repoo changes
