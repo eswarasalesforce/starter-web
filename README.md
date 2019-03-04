@@ -12,10 +12,10 @@ This is Dev ops training.
 For the repo and raise pull request
 
 ## GIT Comparisions
-Adding GIT Comparisions Lectures 
+I am checking GIT comparisions now for the test.
 
 ##GitHub Content 
-Comparisions with repo
+Checking with the Repository and compare
 ## GITcomp
 Adding git comp lectures 
 

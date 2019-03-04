@@ -16,7 +16,7 @@ Doing changes in local  so that i can fix it.
 # TECHNOLOGY COLOPHON
 
  
-    HTML5, CSS3, Angular, Salesforce, AWS
+    HTML5, CSS3, Java, Dev OPS, 
 	CRM Micro dynamics, Automation
 =======
     HTML5, CSS3, Angular, Salesforce, AWS, Dev ops, docker
