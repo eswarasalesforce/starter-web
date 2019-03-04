@@ -8,15 +8,17 @@ Doing changes in local  so that i can fix it.
     Eswara Kakkera
 	Looking for  job
 	I  am in ashburn. eswarasalesforce@gmail.com
+	job near
 	 
 # THANKS
 
-   Thanks to all my students in the class
+   Thanks to all my students in the class.
+   Integration
 
 # TECHNOLOGY COLOPHON
 
  
-    HTML5, CSS3, Java, Dev OPS, 
+    HTML5, CSS3, Java, Dev OPS, Testing, QTP, BA,
 	CRM Micro dynamics, Automation
 =======
     HTML5, CSS3, Angular, Salesforce, AWS, Dev ops, docker
