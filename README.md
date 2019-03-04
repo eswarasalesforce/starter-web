@@ -8,8 +8,10 @@ Test Lectures i am submitting now.
 
 ## Git and GitHub Training
 This is Dev ops training.
+I am AWS certified.
 ##Contributions
-For the repo and raise pull request
+For the repo and raise pull request.
+Learning the technology.
 
 ## GIT Comparisions
 I am checking GIT comparisions now for the test.
