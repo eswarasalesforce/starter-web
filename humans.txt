@@ -18,7 +18,5 @@ Doing changes in local  so that i can fix it.
 # TECHNOLOGY COLOPHON
 
  
-    HTML5, CSS3, Java, Dev OPS, Testing, QTP, BA,
-	CRM Micro dynamics, Automation
-=======
+ 
 	SFDC, Micro Dyanmics, kubernitcs.
