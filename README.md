@@ -1,18 +1,13 @@
 # Starter Web Project
 
 This is a test file
- 
-This is git project which we are using as Sample Project
+This is  a test git project in dev ops which i am using for project purpose. This is Eswar.
 
 ## Introduction
-A lot of lectures are already submitted 
-Sample website with plenty of files for demos
-A lot of lectures are still coming on.
-Expcting lot  of lectures today.
+Test Lectures i am submitting now.
 
 ## Git and GitHub Training
-This  is the famous and one of the best training course of devops
-adding git rebase lectures and git advanced part.
+This is Dev ops training.
 ##Contributions
 For the repo and raise pull request
 
